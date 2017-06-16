@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewSample</string>
+    <string name="your_bash">Your selected bash:</string>
+</resources>
